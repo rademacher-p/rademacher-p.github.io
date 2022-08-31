@@ -1,4 +1,6 @@
-# Publications
+---
+title: Publications
+---
 
 Rademacher, P., & Doroslovački, M. (2019). Bayesian Learning for Classification using a Uniform Dirichlet Prior. In *2019 IEEE Global Conference on Signal and Information Processing (GlobalSIP)* (pp. 1-5).
 
