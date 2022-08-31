@@ -1,5 +1,3 @@
----
-title: Welcome to Paul Rademacher's Homepage!
----
+# Paul Rademacher's Homepage
 
-WIP :construction_worker:
+This repository contains the source for my personal GitHub Pages website :+1:
