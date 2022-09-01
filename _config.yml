@@ -3,6 +3,7 @@ title: "Paul Rademacher's Homepage"
 author: Paul Rademacher
 header_pages:
   - about.md
+  - docs.md
   - publications.md
 plugins:
   - jemoji
