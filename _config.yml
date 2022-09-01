@@ -1,5 +1,8 @@
 theme: minima
 title: "Paul Rademacher's Homepage"
 author: Paul Rademacher
+header_pages:
+  - about.md
+  - publications.md
 plugins:
   - jemoji
