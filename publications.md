@@ -2,13 +2,12 @@
 title: Publications
 ---
 
-Rademacher, P., & Doroslovački, M. (2019). Bayesian Learning for Classification using a Uniform Dirichlet Prior. In *2019 IEEE Global Conference on Signal and Information Processing (GlobalSIP)* (pp. 1-5).
+P. Rademacher and M. Doroslovački, "Predictive Distribution Estimation for Bayesian Machine Learning using a Dirichlet Process Prior," *2019 53rd Asilomar Conference on Signals, Systems, and Computers*, 2019, pp. 1941-1945, doi: 10.1109/IEEECONF44664.2019.9048821.
 
-Rademacher, P., & Doroslovački, M. (2019). Predictive Distribution Estimation for Bayesian Machine Learning using a Dirichlet Process Prior. In *2019 53rd Asilomar Conference on Signals, Systems, and Computers* (pp. 1941-1945).
+P. Rademacher and M. Doroslovački, "Bayesian Learning for Classification using a Uniform Dirichlet Prior," *2019 IEEE Global Conference on Signal and Information Processing (GlobalSIP)*, 2019, pp. 1-5, doi: 10.1109/GlobalSIP45357.2019.8969120.
 
-Rademacher, P., & Wagner, K. (2020). Efficient Bayesian Sequential Classification Under the Markov Assumption for Various Loss Functions. *IEEE Signal Processing Letters, 27, 401-405.*
+P. Rademacher and K. Wagner, "Efficient Bayesian Sequential Classification Under the Markov Assumption for Various Loss Functions," in *IEEE Signal Processing Letters*, vol. 27, pp. 401-405, 2020, doi: 10.1109/LSP.2020.2973854.
 
-Rademacher, P., & Doroslovački, M. (2021). Bayesian Learning for Regression Using Dirichlet Prior Distributions of Varying Localization. In *2021 IEEE Statistical Signal Processing Workshop (SSP)* (pp. 236-240).
+P. Rademacher and M. Doroslovački, "Bayesian Learning for Regression Using Dirichlet Prior Distributions of Varying Localization," *2021 IEEE Statistical Signal Processing Workshop (SSP)*, 2021, pp. 236-240, doi: 10.1109/SSP49050.2021.9513745.
 
-George, T., Wagner, K., & Rademacher, P. (2022). Deep Q-Network for Radar Task-Scheduling Problem. In *2022 IEEE Radar Conference (RadarConf22)* (pp. 1-5).
-
+T. George, K. Wagner and P. Rademacher, "Deep Q-Network for Radar Task-Scheduling Problem," *2022 IEEE Radar Conference (RadarConf22)*, 2022, pp. 1-5, doi: 10.1109/RadarConf2248738.2022.9764230.

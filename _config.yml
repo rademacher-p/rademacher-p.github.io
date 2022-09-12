@@ -5,5 +5,6 @@ header_pages:
   - about.md
   - docs.md
   - publications.md
+  - software.md
 plugins:
   - jemoji
