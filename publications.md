@@ -11,3 +11,5 @@ P. Rademacher and K. Wagner, "Efficient Bayesian Sequential Classification Under
 P. Rademacher and M. Doroslovački, "Bayesian Learning for Regression Using Dirichlet Prior Distributions of Varying Localization," *2021 IEEE Statistical Signal Processing Workshop (SSP)*, 2021, pp. 236-240, doi: 10.1109/SSP49050.2021.9513745.
 
 T. George, K. Wagner and P. Rademacher, "Deep Q-Network for Radar Task-Scheduling Problem," *2022 IEEE Radar Conference (RadarConf22)*, 2022, pp. 1-5, doi: 10.1109/RadarConf2248738.2022.9764230.
+
+P. Rademacher, K. Wagner and L. Smith, "Markov Decision Process Design for Imitation of Optimal Task Schedulers," 2023 IEEE Statistical Signal Processing Workshop (SSP), Hanoi, Vietnam, 2023, pp. 56-60, doi: 10.1109/SSP53291.2023.10207940.
